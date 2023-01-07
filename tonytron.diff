@@ -1,0 +1,25 @@
+diff --git a/otro.txt b/otro.txt
+index 58672f0..f4cd477 100644
+--- a/otro.txt
++++ b/otro.txt
+@@ -1,2 +1,6 @@
+ En un lugar de la mancha
+-de cuyo nombre no quiero acordarme
+\ No newline at end of file
++de cuyo nombre no quiero acordarme
++vivía no ha mucho un hidalgo
++de los de lanza en astillero
++adarga antigua, rocín flaco
++y galgo corredor.
+\ No newline at end of file
+diff --git a/tercero.txt b/tercero.txt
+index 4bd013d..404ff9d 100644
+--- a/tercero.txt
++++ b/tercero.txt
+@@ -1,4 +1,4 @@
+-Que es mi braco mi tesoro
++Que es mi barco mi tesoro
+ que es mi dios la libertad
+ mi ley, la fuerza del viento
+ mi única patria, la mar
+\ No newline at end of file
